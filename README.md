@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Michael
+- 👀 I’m interested to work free for startups or intternship
+- 🌱 I’m currently learning Rust & ML with Python
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 How to reach me: mikelsam40@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Monopoly 
