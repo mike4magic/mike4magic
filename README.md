@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Michael
-- 👀 I’m interested to work free for startups or intternship
+- 👋 Michael Here, what would you like me to do for you?
+- 👀 I’m interested in working free for startups or internship
 - 🌱 I’m currently learning Rust & ML with Python
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: mikelsam40@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Monopoly 
+- ⚡ Fun fact: I love Monopoly
